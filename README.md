@@ -1,2 +1,2 @@
 # npm-test
-Testing NPM package.
+Testing NPM packages.
